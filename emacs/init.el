@@ -43,7 +43,7 @@
 (setq make-backup-files nil)
 (setq auto-save-default nil)
 
-(set-frame-font "JetBrainsMono 14" nil t)
+(set-frame-font "CommitMono 17" nil t)
 
 ;; Keybinds
 
