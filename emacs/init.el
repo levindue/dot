@@ -1,3 +1,5 @@
+;; -*- lexical-binding: t -*-
+
 ;; Better Defaults
 
 (blink-cursor-mode -1)
