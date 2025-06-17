@@ -134,3 +134,6 @@
 (use-package rust-mode
   :custom
   (rust-indent-offset 4))
+
+(use-package julia-mode)
+(use-package zig-mode)
